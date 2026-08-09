@@ -4,6 +4,7 @@ import dbeatcloud from "./assets/dbeatcloud.png";
 import dredInstruments from "./assets/dred-instruments.png";
 import dmusiccloud from "./assets/dmusiccloud.png";
 import dhe from "./assets/dhe.jpg";
+/* eslint-disable */
 
 
 const NAV_LINKS = ["About", "Skills", "Projects", "Experience", "Contact"];
